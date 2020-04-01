@@ -42,3 +42,6 @@ body{
     background: violet;
     text-align: center;
 }
+#photo{
+    padding: 0 211px; width: auto;
+}
