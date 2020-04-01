@@ -3,7 +3,7 @@ Este blog es un ensayo de el curso de Git y GitHub de [platzi](https://platzi.co
 >El curso de git y Github es lo que me hacia falta para triplicar mi salari y lanzarme a la industria del tejido de lana sintetica con  Machine Learnig.
 
 
-##Lo uqe vi en el curso fue :
+##Lo que vi en el curso fue :
 
 - *Todos los comandos de Git
 - *Flujo de trabajo en GitHub
